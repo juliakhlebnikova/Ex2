@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608569447 source:c:\users\julia\desktop\Учеба\2 курс\курсач\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
